@@ -30,6 +30,5 @@ Para executar cada uma das soluções, siga as etapas abaixo:
    ```bash
    cd Target-questoes
 3. **Execute o script desejado**
-   - Questão 2
    ```bash
    python questao_2.py
